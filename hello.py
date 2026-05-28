@@ -1,11 +1,23 @@
-print("Hello World")
+# =========================================
+#   Cute ASCII Dog - Enhanced Version 🐶
+# =========================================
 
-text = '''|\_/|                  
-| @ @   Woof!
-|   <>              
-|  _/\------
-|               \
-||----w |
-||     ||'''
+print("=" * 42)
+print("        Welcome to Dog World 🐾")
+print("=" * 42)
 
-print(text)
+dog = r'''
+          / \__
+         (    @\___
+         /         O
+        /   (_____/
+       /_____/   U
+
+        Woof! Woof! 🐶
+'''
+
+print(dog)
+
+print("=" * 42)
+print("   Your loyal Python companion 💖")
+print("=" * 42)
