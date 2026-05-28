@@ -1,1 +1,11 @@
-print("Hello Wolrd")
+print("Hello World")
+
+text = '''|\_/|                  
+| @ @   Woof!
+|   <>              
+|  _/\------
+|               \
+||----w |
+||     ||'''
+
+print(text)
